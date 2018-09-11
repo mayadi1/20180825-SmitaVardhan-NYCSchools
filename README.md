@@ -6,7 +6,8 @@ This is an mobile client application for [NYCSchools](https://data.cityofnewyork
 
 
 ## Documentation
-The app is currently designed using Apples MVC pattern but can be modified into MVVM also.
-The end point for getting the data from server is customized for pagination but because of less time I could not implement pagination in the tableview. So, Right now the app is only showing data for 100 rows but if paging is done it will show more data depending on the offset.
-The app also tests the model classes and similarly can be used to test the networking code also.
-This app uses Alamofire version 4.7 for making networking calls and SVProgressHud for loding indicator using cocoapods 
+1.After downloading this project run pod install to download the Pods folder.
+2.The app is currently designed using Apples MVC pattern but can be modified into MVVM also.
+3.The end point for getting the data from server is customized for pagination but because of less time I could not implement pagination in the tableview. So, Right now the app is only showing data for 100 rows but if paging is done it will show more data depending on the offset.
+4.The app also tests the model classes and similarly can be used to test the networking code also.
+5.This app uses Alamofire version 4.7 for making networking calls and SVProgressHud for loding indicator using cocoapods 

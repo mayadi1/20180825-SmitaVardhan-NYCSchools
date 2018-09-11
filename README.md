@@ -1,4 +1,5 @@
-# NYCSchools application
+# 20180825-SmitaVardhan-NYCSchools
+
 
 This is an mobile client application for [NYCSchools](https://data.cityofnewyork.us/Education/DOE-High-School-Directory-2017/s3k6-pzi2). NYCSchools app displays list of NYC Schools and then shows additional information about the school like SAT scores in various categories. It is written in Swift 4 and XCode 9.4. It uses a simple restful service to get data from the server and display it in a list format in a tableview.
 
